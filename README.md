@@ -2,32 +2,31 @@
 
 ## Agenda
 
-- 16/1, 19/1 W1 - Pharo découverte, présentation Pharo (syntaxe, modèle, debug), counter + iceberg, projet calculatrice (Iona)
-- 23/1, 26/1 W2 - Double Dispatch (Larisa)
-- 30/1, 2/2 W3 - Double Dispatch Exercices (Larisa)
-- 6/2, 9/2 W4 - Intro ObjVlisp (1h) + ObjVlisp Pratique (Guille/Stephane)
-- 13/2, 16/2 W5 - ObjVLisp Pratique (Guille/Stephane)
-- 20/2, 23/2 W6 - Visitor Exp (Larisa)
-- 27/2, 1/3 holidays
-- 5/3, 8/3 W7 -  Intro AST + Visitor (Iona) 
-- 12/3, 15/3 W8 - Finish all exercises, AST, visitor, etc (Larisa)
-- 19/3, 22/3 W9 - Examen 3h (1h Pharo -> syntaxe pharo (bloc loops inclus), double dispath, visitor, AST; 2h ObjVLisp -> heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp) (Guille/Stephane)
+- 17/1 W1 - Pharo découverte, présentation Pharo (syntaxe, modèle, debug), counter + iceberg, projet calculatrice
+- 24/1 W2 - Double Dispatch
+- 31/1 W3 - Double Dispatch Exercices
+- 7/2  W4 - Visitor pattern
+- 14/2 W5 - Intro AST + Visitor
+
+- 28/2 W6 - TBD
+- 7/3  W7 - TBD
+- 14/3 W8 - Finish all exercises, AST, visitor, etc
+- 21/3 W9 - Exam 
+
 
 #### Évaluation.
-On vous évaluera avec 1 examen 
 
-- à propos de
-    - ObjVLisp (heritage, lookup, envoie message argument vs parametre, metaclass + etendre objvlisp)
+On vous évaluera avec 1 examen (3h) à propos de
     - syntaxe pharo (bloc loops inclus)
-- à propos de
     - double dispatch
     - visitor
-    - manipulation d'AST
+    - manipulation d'AST  
+
 
 #### Horaires 
 
-- mardi  14H45
-- Vendredi 13H00
+Vendredi 13H15 - 16H15 (M5-A14)
+
 
 ## Resources Générales
 * [Playlist vidéos tutos](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k83Kxu_d8EPzMXtvCrReRn)
